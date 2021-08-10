@@ -1,0 +1,1 @@
+INSERT INTO countries VALUES('IND','India','079')
