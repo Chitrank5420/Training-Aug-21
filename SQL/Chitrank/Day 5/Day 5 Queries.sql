@@ -14,7 +14,7 @@ on E.EMPLOYEE_ID = I.EMPLOYEE_REF_ID WHERE INCENTINVE_AMOUNT>3000
 
 /*
 3.Select first_name, incentive amount from employee and incentives table for all employees even if they
-didn�t get incentives.
+didn’t get incentives.
 */
 SELECT E.EMPLOYEE_ID,E.FIRST_NAME,I.INCENTINVE_AMOUNT FROM EmpTable E LEFT JOIN Incentives I 
 on E.EMPLOYEE_ID = I.EMPLOYEE_REF_ID
@@ -25,5 +25,12 @@ on E.EMPLOYEE_ID = I.EMPLOYEE_REF_ID
 */
 
 SELECT E.FIRST_NAME [EMPLOYEE],M.FIRST_NAME [MANAGER] FROM EmpTable E JOIN EMPTABLE M ON E.MANAGER_ID = M.EMPLOYEE_ID
+
+/*
+5.Select first_name, incentive amount from employee and incentives table for all employees even if they didn’t get incentives and set incentive 
+amount as 0 for those employees who didn’t get incentives.
+*/
+SELECT E.FIRST_NAME,ISNULL(I.INCENTIVE_AMOUNT,0) [INCENTIVE] FROM EmpTable E LEFT JOIN INCENTIVES I  ON E.EMPLOYEE_ID = I.EMPLOYEE_REF_ID
+
 
 
