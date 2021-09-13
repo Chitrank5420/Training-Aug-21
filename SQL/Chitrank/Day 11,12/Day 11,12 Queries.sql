@@ -82,7 +82,7 @@ AS
 	WHERE C.City = @City AND B1.City IN ('MUMBAI','DELHI'))
 GO
 
-EXEC myproc4 'KOLKATA'
+EXEC myproc4 'NAGPUR'
 
 
 /*
@@ -117,11 +117,11 @@ CREATE TABLE [dbo].[Deposit1](
 	[ACTNO] [varchar](5) NOT NULL,
 	[Cname] [varchar](18) NULL,
 	[Bname] [varchar](18) NULL,
-	[Amount] [int] NULL CHECK (AMOUNT > 10000),
+	[Amount] [int] NULL,
 	[Adate] [date] NULL,
  CONSTRAINT [PK_Deposit1] PRIMARY KEY (ACTNO)
 )
-
+	SELECT * FROM Deposit1
 --CREATE PROCEDURE
 CREATE PROCEDURE myproc6
 	@JSON nvarchar(max)
@@ -145,16 +145,16 @@ ALTER PROCEDURE myproc6
 AS
 	SET NOCOUNT ON;
 	INSERT INTO Deposit1 (ACTNO,Cname,Bname,Amount,Adate)
-	SELECT ACTNO,Cname,Bname,Amount,Adate = GETDATE()
+	SELECT ACTNO,Cname,Bname,Amount = CASE WHEN Amount>10000 THEN Amount ELSE NULL END,Adate = GETDATE()
 	FROM
 	OPENJSON(@JSON)
 	WITH
 	(
 		ACTNO INT '$.ACTNO',
-		Cname varchar(20) '$.CustomerName',
+		Cname varchar(20) '$.CustomerName' ,
 		Bname varchar(20) '$.Branch',
-		Amount INT '$.Amount'
-		)
+		Amount INT '$.Amount' 
+	 )
 GO
 
 
@@ -162,9 +162,9 @@ GO
 DECLARE @JSON1 nvarchar(max)
 SET @JSON1 = N'{
 "CustomerName":"Chitrank",
-"ACTNO" : 112,
+"ACTNO" : 113,
 "Branch" : "Naroda",
-"Amount" : 25000
+"Amount" : 2500
 }'
 
 --EXECUTE PROCEDURE
