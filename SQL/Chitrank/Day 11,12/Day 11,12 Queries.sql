@@ -1,7 +1,7 @@
 /*
 1.Create a Store Procedure which will accept name of the customer as input parameter and produce the 
 following output, List Names of Customers who are Depositors and have Same Branch City as that of input 
-parameter customer’s Name.
+parameter customerâ€™s Name.
 */
 CREATE PROCEDURE myproc1
 	@CustName nvarchar(30)
@@ -82,7 +82,6 @@ AS
 	WHERE C.City = @City AND B1.City IN ('MUMBAI','DELHI'))
 GO
 
-EXEC myproc4 'NAGPUR'
 
 
 /*
@@ -117,11 +116,7 @@ CREATE TABLE [dbo].[Deposit1](
 	[ACTNO] [varchar](5) NOT NULL,
 	[Cname] [varchar](18) NULL,
 	[Bname] [varchar](18) NULL,
-	[Amount] [int] NULL,
-	[Adate] [date] NULL,
- CONSTRAINT [PK_Deposit1] PRIMARY KEY (ACTNO)
-)
-	SELECT * FROM Deposit1
+
 --CREATE PROCEDURE
 CREATE PROCEDURE myproc6
 	@JSON nvarchar(max)
@@ -145,16 +140,13 @@ ALTER PROCEDURE myproc6
 AS
 	SET NOCOUNT ON;
 	INSERT INTO Deposit1 (ACTNO,Cname,Bname,Amount,Adate)
-	SELECT ACTNO,Cname,Bname,Amount = CASE WHEN Amount>10000 THEN Amount ELSE NULL END,Adate = GETDATE()
+
 	FROM
 	OPENJSON(@JSON)
 	WITH
 	(
 		ACTNO INT '$.ACTNO',
-		Cname varchar(20) '$.CustomerName' ,
-		Bname varchar(20) '$.Branch',
-		Amount INT '$.Amount' 
-	 )
+
 GO
 
 
@@ -162,9 +154,7 @@ GO
 DECLARE @JSON1 nvarchar(max)
 SET @JSON1 = N'{
 "CustomerName":"Chitrank",
-"ACTNO" : 113,
-"Branch" : "Naroda",
-"Amount" : 2500
+
 }'
 
 --EXECUTE PROCEDURE
