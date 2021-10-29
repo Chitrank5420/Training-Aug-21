@@ -1,0 +1,17 @@
+
+.brandheader {
+    font-size: 25px;
+    font-family: cursive
+}
+
+.bannercontainer {
+    position: relative;
+    text-align: center;
+}
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+

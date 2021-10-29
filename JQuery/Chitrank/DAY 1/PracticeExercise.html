@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("p").css({"background-color":"blue","color":"white"});
+        $("#p1").mouseenter(function(){
+            $("#sp1").show();
+        })
+        $("#p1").mouseleave(function(){
+            $("#sp1").hide();
+        })
+        
+        $("#label1").click(function(){
+            $("#sp2").show();
+        })
+        $("#label1").dblclick(function(){
+            $("#sp2").hide();
+        })
+        $("#label2").click(function(){
+            $("#sp3").show();
+        })
+        $("#label2").dblclick(function(){
+            $("#sp3").hide();
+        })
+        $("#label3").click(function(){
+            $("#sp4").show();
+        })
+        $("#label3").dblclick(function(){
+            $("#sp4").hide();
+        })
+
+    })
+</script>
+</head>
+<body>
+
+<p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam pariatur non nobis quaerat ullam vero quae accusantium sed minus et modi libero voluptatibus delectus, maiores molestias at dicta optio est!</p>    
+<p id="p1">THERE IS A <span id="sp1">SPAN ELEMENT</span></p>
+<input type="radio" id="radio1">
+<label for="radio1" id="label1">PHP</label> <span id="sp2" style="display:none;">You have selected PHP</span>
+<input type="radio" id="radio2">
+<label for="radio2" id="label2">ASP.NET</label> <span id="sp3" style="display:none;">You have selected ASP.NET</span>
+<input type="radio" id="radio3">
+<label for="radio3" id="label3">ASP.NET</label> <span id="sp4" style="display:none;">You have selected ASP</span>
+
+</body>
+</html>

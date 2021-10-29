@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Callback Demo</h2>
+    <p id="demo"></p>
+</body>
+<script>
+    function myDisplayer(text){
+        document.getElementById("demo").innerHTML = text;
+    }
+
+    /*
+    function myFirst(){
+        myDisplayer("Hello");
+    }*/
+    
+    /*
+    function mySecond(){
+        myDisplayer("Goodbye");
+    }*/
+
+    function myCalculator(num1,num2){
+        let sum = num1 + num2;
+        return sum;
+    }
+    function myCalculator2(num1,num2){
+        let sum = num1 + num2;
+        document.getElementById("demo").innerHTML = sum;
+    }
+
+let result = myCalculator2(5,10);
+
+</script>
+</html>

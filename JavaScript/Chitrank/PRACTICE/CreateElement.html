@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0>">
+    <title>Document</title>
+</head>
+<body>
+    <div id="div1">
+        <p id="p1">First Paragraph</p>
+        <p id="p2">Second Paragraph</p>
+    </div>
+    <button type="button" onclick="myfun()">CLICK TO REMOVE</button>
+<script>
+    const para = document.createElement("p");
+    const para2 = document.createElement("p");
+    const node = document.createTextNode("this is me");
+    const node2 = document.createTextNode("this is me2");
+
+    para.appendChild(node);
+    para2.appendChild(node2);
+
+    //APPEND CHILD
+    const element = document.getElementById("div1");
+    element.appendChild(para);
+    const element2 = document.getElementById("div1");
+    const child = document.getElementById("p1");
+
+    //INSERT BEFORE
+    element2.insertBefore(para2,child);
+
+    //REMOVE
+    function myfun(){
+        document.getElementById("p1").remove();
+
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Gelocation</h2>
+
+<p>Click the button to get your coordinates.</p>
+
+<button onclick="getLocation()">Try It</button>
+
+<p id="demo"></p>
+
+<input type="number" id="inp" min="100" max="300" required>
+<button onclick="myfunction()">OK</button>
+<p id="demo2"></p>
+<a href="#">click me</a>
+<button onclick="goback()">GO PREVIOUS</button>
+<p id="demo3"></p>
+<p id="demo4">Chitrank</p>
+<p id="demo5"></p>
+<p id="demo6"></p>
+<p id="demo7"></p>
+<script>
+const x = document.getElementById("demo");
+
+//GEO-LOCATION
+function getLocation() {
+  try {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } catch {
+    x.innerHTML = err;
+  }
+}
+
+function showPosition(pos) {
+  let latlon =  pos.coords.latitude + "," + pos.coords.longitude;
+  let img_url = "https://maps.googleapis.com/maps/api/staticmap?center="+latlon+"&zoom=14&size=400x300&sensor=false";
+
+  document.getElementById("mapholder").innerHTML = "<img src='"+img_url+"'>";
+
+}
+
+//VALIDATION
+function myfunction(){
+    const inpobj = document.getElementById("inp");
+    if(inpobj.validity.rangeOverflow ){
+        document.getElementById("demo2").innerHTML = "PLEASE WRITE LESSER VALUE";
+    }
+    else{
+        document.getElementById("demo2").innerHTML = "INPUT OK";
+    }
+}
+
+
+//WEB HISTORY
+function goback(){
+    window.history.back();
+}
+
+//WEB STORAGE
+localStorage.setItem("name","john doe");
+document.getElementById("demo3").innerHTML = localStorage.getItem("name");
+
+var z = document.getElementById("demo4").innerHTML;
+document.getElementById("demo5").innerHTML = z;
+
+localStorage.setItem("fname",z);
+document.getElementById("demo6").innerHTML = localStorage.length;
+
+
+const jobj = JSON.parse('{"book" : ["name":"jkrow","jkrow"]}');
+document.getElementById("demo7").innerHTML = jobj.book[0].name
+</script>
+
+</body>
+</html>

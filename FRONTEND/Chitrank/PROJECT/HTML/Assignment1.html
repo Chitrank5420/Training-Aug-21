@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trainee Portal</title>
+    <script src="https://kit.fontawesome.com/e52d09bced.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../CSS/Assignment1.css">
+</head>
+<body>
+    <div class="row">
+        <div class="header">
+            <div style="margin-left: 3%;"><img src="../ASSETS/RADIXLOGO1.png" width="70px" height="70px"></div>
+            <div style="margin:3% 1% 1% 80%;">
+                <a href="#Login" style="text-decoration: none;color: white;">Login</a> | 
+                <a href="#Signup" style="text-decoration: none;color: white;">Signup</a>
+            </div>
+        </div>
+        <div class="navbar">
+            <a href="#html" title="Html/CSS Tasks">Html/CSS</a>
+            <a href="#bootstrap" title="Bootstrap Tasks">Bootstrap</a>
+            <a href="#javascript" title="Javascript Tasks">JavaScript</a>
+            <a href="#jquery" title="JQuery Tasks">JQuery</a>
+        </div>
+        <div class="sidebar">
+            <h2>Html/CSS Tasks</h2>
+            <button class="dropdown-btn">Day 1 <i class="fa fa-caret-down"></i></button>
+                <div class="dropdown-container">
+                    <a href="Assignment1.html">Assignment</a>
+                    <a href="#PracticeExercise1.html">Practice Exercise 1</a>
+                    <a href="#PracticeExercise2.html">Practice Exercise 2</a>
+                    <a href="#PracticeExercise3.html">Practice Exercise 3</a>
+                    <a href="#PracticeExercise4.html">Practice Exercise 4</a>
+                    <a href="#PracticeExercise5.html">Practice Exercise 5</a>
+                    <a href="#PracticeExercise6.html">Practice Exercise 6</a>
+                </div>
+            <button class="dropdown-btn">Day 2 <i class="fa fa-caret-down"></i></button>
+                <div class="dropdown-container">
+                    <a href="Assignment2.html">Assignment</a>
+                    <a href="#PracticeExercise1.html">Practice Exercise 1</a>
+                    <a href="#PracticeExercise2.html">Practice Exercise 2</a>
+                    <a href="#PracticeExercise3.html">Practice Exercise 3</a>
+                    <a href="#PracticeExercise4.html">Practice Exercise 4</a>
+                    <a href="#PracticeExercise5.html">Practice Exercise 5</a>
+                </div>
+            <button class="dropdown-btn">Day 3 <i class="fa fa-caret-down"></i></button>
+                <div class="dropdown-container">
+                    <a href="Assignment3.html">Assignment</a>
+                    <a href="#PracticeExercise1.html">Practice Exercise 1</a>
+                    <a href="#PracticeExercise2.html">Practice Exercise 2</a>
+                    <a href="#PracticeExercise3.html">Practice Exercise 3</a>
+                </div>
+            <button class="dropdown-btn">Day 4 <i class="fa fa-caret-down"></i></button>
+                <div class="dropdown-container">
+                    <a href="Assignment4.html">Assignment</a>
+                    <a href="#PracticeExercise1.html">Practice Exercise 1</a>
+                    <a href="#PracticeExercise2.html">Practice Exercise 2</a>
+                    <a href="#PracticeExercise3.html">Practice Exercise 3</a>
+                    <a href="#PracticeExercise4.html">Practice Exercise 4</a>
+                    <a href="#PracticeExercise5.html">Practice Exercise 5</a>
+                    <a href="#PracticeExercise6.html">Practice Exercise 6</a>
+                    <a href="#PracticeExercise7.html">Practice Exercise 7</a>
+                </div>
+        </div>
+        <div class="main">
+            <iframe src="Assignment.html"  frameborder="0" width="100%" height="100%"></iframe>
+        </div>
+    </div>
+
+<script>
+    var dropdown = document.getElementsByClassName("dropdown-btn");
+    var i;
+    for (i = 0; i < dropdown.length; i++) {
+    dropdown[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var dropdownContent = this.nextElementSibling;
+    if (dropdownContent.style.display === "block") {
+    dropdownContent.style.display = "none";
+    } else {
+    dropdownContent.style.display = "block";
+    }
+    });
+    }
+</script>
+</body>
+</html>

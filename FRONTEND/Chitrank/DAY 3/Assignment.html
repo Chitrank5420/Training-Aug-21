@@ -1,8 +1,14 @@
 <!--
-Create Basic layout of the application which contain header, footer, leftbar and sidebar.
-Header keep brand logo and navigation bar for home, aboutus and contact us. Navigation should work properly.
+Design a form for storing employee details. (Employee name, age, Gender, designation, salary, location, 
+Email ID, Date of Joining and contact number)
+Validation required
+Age should be a number
+Each field should contain value
+Email ID should be in proper format
+Date of joining should be in date format
+Location should be in the drop down list
+Use radio buttons for Gender
 -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,56 +16,47 @@ Header keep brand logo and navigation bar for home, aboutus and contact us. Navi
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="ExternalCss.css">
-
 </head>
 <body>
-    <header>
-        <div id="div1">
-            <img src="Logo" alt="logo">
-            <h1>FarmPE</h1>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#AboutUS">AboutUs</a></li>
-                <li><a href="#ContactUS">ContactUs</a></li>
-            </ul>
-        </div>
-    </header>
-    <div class="clearfix">
-    <div class="column leftbar">
-        <ul>
-            <li>Our Company</li>
-            <li>Branches</li>
-            <li>Services</li>
-            <li>Technologies</li>
-            <li>Our Team</li>
-            <li>Products</li>
-            <li>Blogs</li>
-            <li>News</li>
-            <li>Infrastructure</li>
-        </ul>
-    </div>
-    <div class="content column">
-        <div class="header2">
-            <h1>How we Work</h1>
-        </div>
-        <div>
-        <p style="text-indent: 15%;text-align:justify;margin:0 50px 0 ;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-        <p style="text-indent: 15%;text-align:justify;margin:0 50px 0 ;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-        <p style="text-indent: 15%;text-align:justify;margin:0 50px 0 ;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
-        </div>
-    </div>
-    </div>
-    <footer>
-        <div class="footer">
-           <ul>
-               <li><a href="#Forum">Forum</a></li>
-               <li><a href="#sitemap">Sitemap</a></li>
-               <li><a href="#ContactUs">ContactUs</a></li>
-               <li><a href="#LocateUs">LocateUs</a></li>
-               <li><a href="#home">Home</a></li>
-           </ul>
-        </div>
-    </footer>
+    <form target="_blank" method="POST" autocomplete="on">
+        <label for="fname">First Name :</label>
+        <input type="text" id="fname" name="fname" required>&ensp;
+        <label for="lname">Last Name :</label>
+        <input type="text" id="lname" name="lname" required><br><br>
+        <label for="age">Age :</label>
+        <input type="number" id="age" name="age" min="18" max="65" required> Years <br><br>
+        Gender :
+        <input type="radio" id="male" name="Gender" >
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="Gender">
+        <label for="female">Female</label><br><br>
+        Designation:
+        <input list="designation" required>
+            <datalist id="designation">
+                <option value="CEO">
+                <option value="DBA">
+                <option value="PROJECT MANAGER">
+                <option value="IT HEAD">
+            </datalist>
+        <br><br>
+        <label for="salary">Salary:</label>
+        <input type="number" id="salary" name="salary" pattern="[0-9]+" min="10000" required><br><br>
+        <label for="Location">Location :</label>
+        <select id="Location" name="Location" required>
+            <option value="" hidden></option>
+            <option value="Ahmedabad">Ahmedabad</option>
+            <option value="Rajkot">Rajkot</option>
+            <option value="Baroda">Baroda</option>
+            <option value="Surat" >Surat</option>
+            <option vaue="Jamnagar">Jamnagar</option>
+        </select><br><br>
+        <label for="email">Email :</label>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="number">Phone No.:</label>
+        <input type="tel" id="number" name="phonenumber" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="123-456-7890"required><br><br>
+        <label for="doj">Date of Joining :</label>
+        <input type="date" id="doj" name="doj" required><br><br>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
