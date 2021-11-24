@@ -1,0 +1,11 @@
+var myvar = 6;
+var mycolor = "Blue Color";
+var myarr = [1, 2, 3];
+var myobj = { x: 0 };
+myobj = "5";
+var arr = [["JavaTpoint", 2200, "Java", "Abhishek"]];
+console.log(arr[0]);
+console.log(myvar);
+console.log(mycolor);
+console.log(myarr[2]);
+console.log(myobj);
