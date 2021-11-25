@@ -24,7 +24,7 @@ class Student {
     }  
 }  
 function Display<T extends Student>(per: T): void {  
-    console.log(`${ st.Id} ${st.Name}` );  
+    console.log(`${ per.Id} ${per.Name}` );  
 }  
 var st = new Student(1, "\nChitrank");  
 Display(st);  
