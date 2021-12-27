@@ -1,6 +1,0 @@
-D:\.NET\PRACTICE\Internal\Internal\obj\Debug\Internal.csproj.CoreCompileInputs.cache
-D:\.NET\PRACTICE\Internal\Internal\bin\Debug\Internal.exe.config
-D:\.NET\PRACTICE\Internal\Internal\bin\Debug\Internal.exe
-D:\.NET\PRACTICE\Internal\Internal\bin\Debug\Internal.pdb
-D:\.NET\PRACTICE\Internal\Internal\obj\Debug\Internal.exe
-D:\.NET\PRACTICE\Internal\Internal\obj\Debug\Internal.pdb

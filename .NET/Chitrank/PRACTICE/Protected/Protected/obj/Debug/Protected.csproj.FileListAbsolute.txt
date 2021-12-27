@@ -1,6 +1,0 @@
-D:\.NET\PRACTICE\Protected\Protected\obj\Debug\Protected.csproj.CoreCompileInputs.cache
-D:\.NET\PRACTICE\Protected\Protected\bin\Debug\Protected.exe.config
-D:\.NET\PRACTICE\Protected\Protected\bin\Debug\Protected.exe
-D:\.NET\PRACTICE\Protected\Protected\bin\Debug\Protected.pdb
-D:\.NET\PRACTICE\Protected\Protected\obj\Debug\Protected.exe
-D:\.NET\PRACTICE\Protected\Protected\obj\Debug\Protected.pdb

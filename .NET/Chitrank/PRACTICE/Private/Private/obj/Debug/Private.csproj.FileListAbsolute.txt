@@ -1,6 +1,0 @@
-D:\.NET\PRACTICE\Private\Private\obj\Debug\Private.csproj.CoreCompileInputs.cache
-D:\.NET\PRACTICE\Private\Private\bin\Debug\Private.exe.config
-D:\.NET\PRACTICE\Private\Private\bin\Debug\Private.exe
-D:\.NET\PRACTICE\Private\Private\bin\Debug\Private.pdb
-D:\.NET\PRACTICE\Private\Private\obj\Debug\Private.exe
-D:\.NET\PRACTICE\Private\Private\obj\Debug\Private.pdb

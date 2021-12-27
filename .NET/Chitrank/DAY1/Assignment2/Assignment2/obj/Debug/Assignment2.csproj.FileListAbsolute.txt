@@ -1,7 +1,0 @@
-D:\.NET\DAY1\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
-D:\.NET\DAY1\Assignment2\Assignment2\bin\Debug\Assignment2.exe
-D:\.NET\DAY1\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
-D:\.NET\DAY1\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
-D:\.NET\DAY1\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
-D:\.NET\DAY1\Assignment2\Assignment2\obj\Debug\Assignment2.exe
-D:\.NET\DAY1\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
