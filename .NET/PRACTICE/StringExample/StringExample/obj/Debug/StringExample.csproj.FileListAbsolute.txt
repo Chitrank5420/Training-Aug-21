@@ -1,0 +1,7 @@
+D:\.NET\PRACTICE\StringExample\StringExample\bin\Debug\StringExample.exe.config
+D:\.NET\PRACTICE\StringExample\StringExample\bin\Debug\StringExample.exe
+D:\.NET\PRACTICE\StringExample\StringExample\bin\Debug\StringExample.pdb
+D:\.NET\PRACTICE\StringExample\StringExample\obj\Debug\StringExample.csproj.CoreCompileInputs.cache
+D:\.NET\PRACTICE\StringExample\StringExample\obj\Debug\StringExample.exe
+D:\.NET\PRACTICE\StringExample\StringExample\obj\Debug\StringExample.pdb
+D:\.NET\PRACTICE\StringExample\StringExample\obj\Debug\StringExample.csprojAssemblyReference.cache

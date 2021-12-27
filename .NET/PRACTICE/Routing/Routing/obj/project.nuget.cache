@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Rr+ofXhjrTRnCEfW0WwiqU1zlc7rZ+5WozkZTe/VtgaOof5edg2ZK3UEU2ZNGAr9JJPS78rY+0Jlrn2oMHmvQ==",
+  "success": true,
+  "projectFilePath": "D:\\.NET\\PRACTICE\\Routing\\Routing\\Routing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dotnet\\.nuget\\packages\\documentformat.openxml\\2.14.0\\documentformat.openxml.2.14.0.nupkg.sha512",
+    "C:\\Users\\dotnet\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

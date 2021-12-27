@@ -1,0 +1,214 @@
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CopyComplete
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\dotnet\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\staticwebassets\Assignment.StaticWebAssets.xml
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment.styles.css
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.RazorTargetAssemblyInfo.cache
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CopyComplete
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+D:\.NET\DAY12,13 - Copy\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
+D:\.NET\DAY12,13 - Copy\Assignment\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\.NET\DAY14\Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\staticwebassets\Assignment.StaticWebAssets.xml
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment.styles.css
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.RazorTargetAssemblyInfo.cache
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CopyComplete
+D:\.NET\DAY14\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache

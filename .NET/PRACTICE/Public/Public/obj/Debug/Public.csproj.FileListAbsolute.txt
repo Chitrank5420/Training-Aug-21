@@ -1,0 +1,7 @@
+D:\.NET\PRACTICE\Public\Public\obj\Debug\Public.csprojAssemblyReference.cache
+D:\.NET\PRACTICE\Public\Public\obj\Debug\Public.csproj.CoreCompileInputs.cache
+D:\.NET\PRACTICE\Public\Public\bin\Debug\Public.exe.config
+D:\.NET\PRACTICE\Public\Public\bin\Debug\Public.exe
+D:\.NET\PRACTICE\Public\Public\bin\Debug\Public.pdb
+D:\.NET\PRACTICE\Public\Public\obj\Debug\Public.exe
+D:\.NET\PRACTICE\Public\Public\obj\Debug\Public.pdb

@@ -1,0 +1,13 @@
+D:\.NET\DAY6\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.exe
+D:\.NET\DAY6\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.deps.json
+D:\.NET\DAY6\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.json
+D:\.NET\DAY6\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+D:\.NET\DAY6\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.dll
+D:\.NET\DAY6\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.pdb
+D:\.NET\DAY6\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csprojAssemblyReference.cache
+D:\.NET\DAY6\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+D:\.NET\DAY6\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+D:\.NET\DAY6\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csproj.CoreCompileInputs.cache
+D:\.NET\DAY6\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.dll
+D:\.NET\DAY6\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.pdb
+D:\.NET\DAY6\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.genruntimeconfig.cache
